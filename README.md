@@ -1,4 +1,6 @@
-# project
+# Project "Shop Technozavrrr"
+
+## https://tati-b127.github.io/technovavrrr
 
 ## Project setup
 ```
